@@ -179,6 +179,7 @@ ol {
   flex-direction: column;
   height: 298px;
   overflow-y: scroll;
+  overflow-x: hidden;
   gap: 30px;
   padding-inline: 3px;
 }
